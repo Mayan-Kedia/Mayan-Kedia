@@ -1,23 +1,19 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYFxvUvTNaOMFPS/giphy.gif" width="100%" alt="haunted house banner"/>
-</p>
-
-<h1 align="center">👻 Welcome to Mayan Kedia's Bhoot Bangla 🏚️</h1>
-<h3 align="center">💀 Enter if you dare... the code here is haunted.</h3>
+<h1 align="center">Hi, I'm Mayan Kedia 👋</h1>
+<h3 align="center">Software Developer | Problem Solver | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Creepster&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Ghosts+in+the+machine...;Every+bug+is+a+spirit+I+haven't+exorcised;C%2B%2B+is+my+haunted+mansion;Python+casts+the+spells;Enter+my+repo...+if+you+dare+%F0%9F%91%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=550&lines=Building+clean%2C+efficient+solutions;Python+%7C+C%2B%2B+%7C+C+%7C+SQL+%7C+HTML;Always+learning%2C+always+improving" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🔥 About Me
+### 🔎 About Me
 
-- 🏚️ I live in the terminal — my repo is the real haunted mansion
-- 👻 Every bug is a ghost, every fix is an exorcism
-- 🕯️ Currently summoning projects at midnight, one commit at a time
-- 🦇 Goal: write code so clean even the spirits can't find a bug in it
-- 🤝 Down to collab — if you're brave enough to enter, hit me up
+- 💻 Software developer with a focus on building practical, efficient solutions
+- 📚 Experienced with Python, C++, C, SQL, and HTML
+- 🚀 Currently working on real-world projects to sharpen my skills
+- 🎯 Focused on writing clean, maintainable, and well-documented code
+- 🤝 Open to collaboration — feel free to reach out
 
 ---
 
@@ -36,32 +32,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayan-Kedia&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayan-Kedia&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayan-Kedia&show_icons=true&theme=default&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayan-Kedia&layout=compact&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayan-Kedia&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayan-Kedia&theme=default" />
 </p>
 
 ---
 
-### ⚡ Fun Facts
-
-```
-
-while (alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
-}
-
-```
-
----
-
-### 📫 Catch Me On
+### 📫 Get In Touch
 
 <p align="left">
   <a href="https://github.com/Mayan-Kedia"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -73,4 +54,4 @@ while (alive) {
   <img src="https://komarev.com/ghpvc/?username=Mayan-Kedia&style=for-the-badge&color=blueviolet" alt="profile views" />
 </p>
 
-<p align="center"><i>👻 Don't just scroll — star a repo, then get outta the Bhoot Bangla.</i></p>
+<p align="center"><i>Thanks for visiting my profile — feel free to explore my repositories.</i></p>
