@@ -1,19 +1,20 @@
 <h1 align="center">Hi, I'm Mayan Kedia 👋</h1>
-<h3 align="center">Software Developer | Problem Solver | Lifelong Learner</h3>
+<h3 align="center">Biotechnology Student | Tech & Coding Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=550&lines=Building+clean%2C+efficient+solutions;Python+%7C+C%2B%2B+%7C+C+%7C+SQL+%7C+HTML;Always+learning%2C+always+improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Building+Software+Solutions+%7C+Coding;Exploring+Bioinformatics+%26+Tech;Python+%7C+C%2B%2B+%7C+C+%7C+SQL+%7C+HTML;Always+learning%2C+always+improving" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🔎 About Me
 
-- 💻 Software developer with a focus on building practical, efficient solutions
-- 📚 Experienced with Python, C++, C, SQL, and HTML
-- 🚀 Currently working on real-world projects to sharpen my skills
-- 🎯 Focused on writing clean, maintainable, and well-documented code
-- 🤝 Open to collaboration — feel free to reach out
+- 🔬 **Biotechnology Student** with a deep interest in leveraging programming to solve biological puzzles.
+- 💻 **Passionate about Software Development** and writing clean, efficient code to build practical solutions.
+- 🧬 Highly interested in **Bioinformatics and Computational Biology**, blending technology with science.
+- 📚 Experienced with Python, C++, C, SQL, and HTML.
+- 🚀 Currently working on coding projects to sharpen my technical skills and learn new concepts.
+- 🤝 Open to collaboration on interdisciplinary ideas — feel free to reach out!
 
 ---
 
